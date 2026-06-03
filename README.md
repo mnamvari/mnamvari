@@ -20,7 +20,6 @@ Open to **EU / remote** roles.
 
 - **[Compliant Jetton]( [link] )** — permissioned token on TON (FunC) with on-chain freeze controls
 - **[strapi-canvas]( [link] )** — [one line: what it is]
-- **[CV pattern generator]( [link] )** — [one line: image → limited-palette pattern]
 
 ### Background
 
