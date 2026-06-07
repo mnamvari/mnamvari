@@ -1,16 +1,33 @@
-## Hi there 👋
+# Mohammad S. Namvari
 
-<!--
-**mnamvari/mnamvari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack & Blockchain Engineer** — 20+ years shipping production systems.
 
-Here are some ideas to get you started:
+I build backend-heavy applications end to end: smart contracts, APIs, cloud
+infrastructure, and frontends. Current focus is blockchain on TON (FunC) and
+.NET fintech systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to **EU / remote** roles.
+
+### Tech I work with
+
+- **Backend:** C#, .NET Core, microservices, gRPC/REST, Kafka, EF Core
+- **Blockchain:** TON, FunC, smart contracts, ERC-3643 (compliant / permissioned tokens)
+- **Frontend:** React, React Native, TypeScript
+- **Cloud / DevOps:** Azure, Docker, Kubernetes, CI/CD
+- **Data:** SQL Server, PostgreSQL, MongoDB, Redis, Elasticsearch
+
+### Selected work
+
+- **[Compliant Jetton]( [link] )** — permissioned token on TON (FunC) with on-chain freeze controls
+- **[Strapi Canvas](https://github.com/mnamvari/strapi-canvas-backend)** — Real-Time collaborative drawing canvas
+
+### Background
+
+Co-founder and lead engineer at Raymon, architecting large-scale systems for the
+energy sector — meter-data platforms serving millions of users, real-time fleet
+management, and a full ERP (accounting, inventory, sales). I care about clean
+architecture and code that holds up in production.
+
+### Reach me
+
+- LinkedIn — [in/namvari](https://linkedin.com/in/namvari)
