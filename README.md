@@ -18,7 +18,7 @@ Open to **EU / remote** roles.
 
 ### Selected work
 
-- **[Compliant Jetton]( [link] )** — permissioned token on TON (FunC) with on-chain freeze controls
+- **[Compliant Jetton](https://github.com/mnamvari/compliant-jetton-ton)** — permissioned token on TON (FunC) with on-chain freeze controls
 - **[Strapi Canvas](https://github.com/mnamvari/strapi-canvas-backend)** — Real-Time collaborative drawing canvas
 
 ### Background
